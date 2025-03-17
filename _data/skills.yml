@@ -1,12 +1,33 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Foreign Language
+  description: English - TOEIC 880, Duolingo 115
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Programming Language
+  description: Python, Matlab, C/C++, C#, Java, Javascript, PHP
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Machine Learning Framework
+  description: Pytorch, Tensorflow, TensorRT, ONNX, CUDA, Scikit-learn, Matlab
+
+- skill: Large Language Model RAG Framework
+  description: Langchain, LLamaIndex
+
+- skill: Reinforcement Learning
+  description: OpenAI Gym, OpenAI Baseline, OpenAI SpinningUp
+
+- skill: Graph Processing
+  description: DGL, NetworkX, Torch Geometric
+
+- skill: Database
+  description: MySQL
+
+- skill: Backend
+  description: FastAPI, Flask, Node.js, CodeIgniter
+
+- skill: Frontend
+  description: AngularJS, ReactJS, Streamlit, Gradio
+
+- skill: Build and Automation
+  description: Docker, CircleCI, Amazon Sagemaker
+
+- skill: Cloud Computing
+  description: AWS, GCP

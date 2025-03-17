@@ -1,13 +1,18 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Master of Computer Science and Engineering
+  uni: The University of Aizu
+  year: 2021 &mdash; 2023
+  award: JASSO Association Scholarship
+  summary: Code Generation using Large Language Models. GPA 4.0 / 4.0.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Computer Science and Engineering
+  uni: The University of Aizu
+  year: 2017 &mdash; 2019
+  award: MEXT Government Scholarship
+  summary: Reinforcement Learning for Humanoid Locomotion. GPA 4.0 / 4.0.
+
+- degree: Bachelor of Computer Science and Engineering
+  uni: Hanoi University of Science and Technology
+  year: 2014 &mdash; 2017
+  award: Encourage Scholarship for Excellent Students (4 semesters)
+  summary: Software Development. GPA 3.52/ 4.0 (top 1%).

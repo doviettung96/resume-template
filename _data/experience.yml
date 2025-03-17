@@ -1,19 +1,47 @@
-# Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Freelance Developer
+  position: Freelance Developer
+  duration: Aug, 2024 &mdash; Mar, 2025
+  summary: |
+    <ul class="resume-item-list">
+      <li>Developed a new multi-level text detection model applied to all subsequent pipelines</li>
+      <li>Optimized the inference speed of object detection models by 3 times</li>
+      <li>Developed a fully automated pipeline from data preprocessing, model training to exporting reports</li>
+    </ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Cinnamon AI
+  position: AI Researcher
+  duration: Sep, 2019 &mdash; Aug, 2024
+  summary: |
+    <ul class="resume-item-list">
+      <li>Delivered 12 successful AI projects with higher than 0.85 F1 score</li>
+      <li>Managed 5 AI projects with teams from 5 members to 8 members</li>
+      <li>Developed a Continual Learning Framework for Information Extraction models to minimize the catastrophic forgetting rate to 1% lower than training independent models. Published a A-ranked paper with this work</li>
+      <li>Developed a Program Synthesis based explanations to improve GNN model’s accuracy by 11% in zero-shot learning</li>
+      <li>Developed a general multitask document classification model with accuracy higher than 95%.</li>
+      <li>Developed a prompt generator to improve 5% of accuracy over the default prompt</li>
+      <li>Developed a prompt optimizer to give domain-specific answers with 12% accuracy improvement</li>
+    </ul>
 
+- company: Freelance Developer
+  position: Freelance Developer
+  duration: Jun, 2022 &mdash; Oct, 2022
+  summary: |
+    <ul class="resume-item-list">
+      <li>Developed a trading system including a bot using Evolutionary Algorithm, a data simulation, a visualization tool. On simulated data and past data, the bot always gains positive income.</li>
+    </ul>
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: The University of Aizu
+  position: Research Assistant
+  duration: Oct, 2018  &mdash; Sep, 2019
+  summary: |
+    <ul class="resume-item-list">
+      <li>Developed a CNN quantization to work on FPGA that saved 50% of model parameters while keeping the accuracy the same.</li>
+    </ul>
+
+- company: OWS VN
+  position: Frontend Web Developer
+  duration: Nov, 2016  &mdash; Sep, 2017
+  summary: |
+    <ul class="resume-item-list">
+      <li>Developed 2 healthcare web apps for smartphones and smartwatches</li>
+    </ul>
